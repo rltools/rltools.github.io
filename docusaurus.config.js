@@ -16,7 +16,7 @@ module.exports = {
     navbar: {
       title: 'RLTools',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Temporary RLTools Logo',
         src: 'img/gear_logo.svg',
       },
       items: [
