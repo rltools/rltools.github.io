@@ -2,9 +2,12 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+# RLTools Group Intro
+
+Placeholder for explaining the core goals of the group. Will enter this in gradually.
+
+<!-- Let's discover **Docusaurus in less than 5 minutes**.
 
 ## Getting Started
 
@@ -32,4 +35,4 @@ npx docusaurus start
 
 Your site starts at `http://localhost:3000`.
 
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
+Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes. -->
