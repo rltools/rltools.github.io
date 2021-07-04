@@ -1,8 +1,10 @@
 ---
-sidebar_position: 6
+sidebar_position: 1
+id: ddlang-overview
+slug: /learning/dublang
 ---
 
-# Congratulations!
+# Dubdub - Project Overview
 
 You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.
 
